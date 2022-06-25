@@ -31,7 +31,7 @@ let x;
 
 function someFunction(){
     let fo = 2;
-    const answer = foo + bar;
+    const answer = fo + bar;
     return answer;
 }
 let fo = 1000;
